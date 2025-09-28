@@ -1,0 +1,8 @@
+# Pastas de build, instalacao e logs do ROS 2 / colcon
+build/
+install/
+log/
+
+# Ignorar arquivos do VS Code
+.vscode/
+
